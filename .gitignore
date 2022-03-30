@@ -133,3 +133,6 @@ dmypy.json
 
 # Docker Compose Volumes
 tmp/
+
+# VS Code Development Container
+.devcontainer/
